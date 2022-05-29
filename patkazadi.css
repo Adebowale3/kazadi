@@ -67,7 +67,7 @@ background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(112,121,9,1) 35%, rgb
 
 .main-header {
     background-color: rgba(0, 0, 0, 6);
-    background-image: url("/images/patricia-kazadi.jpeg");
+    background-image: url("images/patricia-kazadi.jpeg");
     background-blend-mode: screen;
     background-size: auto;
     padding-bottom: 30px;
